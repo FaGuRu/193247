@@ -10,3 +10,5 @@ Se utilizo el metodo __int__ porque es el constructor de la clase filosofo, en e
 Se utilizo super().__init__() es para que las clases o metodos secundarios que pueden estar usando herencia múltiple cooperativa llamen a la siguiente función de clase primaria.
 
 Se utilizo self para pasar la instancia de la clase a los métodos de instancia.
+
+Se utilizo la variable parar como un idicador el cual rompe el ciclo al momento de que todos los filosofos ya hayan comido.
