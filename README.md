@@ -11,4 +11,6 @@ Se utilizo super().__init__() es para que las clases o metodos secundarios que p
 
 Se utilizo self para pasar la instancia de la clase a los métodos de instancia.
 
+Se utilozo la función self.id, la cual devuelve una identidad de un objeto. Este es un entero que se garantiza que es único. Esta función toma un argumento un objeto y devuelve un número entero único que representa la identidad.
+
 Se utilizo la variable parar como un idicador el cual rompe el ciclo al momento de que todos los filosofos ya hayan comido.
